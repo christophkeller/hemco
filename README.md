@@ -1,4 +1,9 @@
-hemco
+
+```
+***IMPORTANT:*** **This repository is deprecated - please use [https://github.com/geoschem/HEMCO](https://github.com/geoschem/HEMCO) for the latest code version**
+```
+
+HEMCO
 =====
 
 This is the Harvard-NASA Emissions Component (HEMCO) source code. The Harvard-NASA Emissions Component (HEMCO) is a software 
