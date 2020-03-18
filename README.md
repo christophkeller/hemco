@@ -19,4 +19,4 @@ github.com/christophkeller/hemco_standalone_full.
 References: C. A. Keller, M. S. Long, R. M. Yantosca, A. M. Da Silva, S. Pawson, D. J. Jacob: HEMCO v1.0: a versatile,
 ESMF-compliant component for calculation emissions in atmospheric models. Geosci. Model Dev., 7, 1409-1417, 2014.
 
-Contact: ckeller@seas.harvard.edu
+Contact: christoph.a.keller@nasa.gov
