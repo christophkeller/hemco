@@ -1,7 +1,6 @@
 
-```
-***IMPORTANT:*** **This repository is deprecated - please use [https://github.com/geoschem/HEMCO](https://github.com/geoschem/HEMCO) for the latest code version**
-```
+***IMPORTANT:*** **This repository is deprecated - please use [https://github.com/geoschem/HEMCO](https://github.com/geoschem/HEMCO) instead**
+
 
 HEMCO
 =====
